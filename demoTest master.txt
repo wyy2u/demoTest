@@ -1,2 +1,6 @@
 demoTest_master
 mod master
+add dev mod
+add unstage
+mod dev2
+final
